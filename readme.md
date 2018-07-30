@@ -6,5 +6,6 @@
 
 #xunyi：xunyee的自动小程序
 
+#tfrecord: 将标注好的目标识别图像转为tf可用形式-->标注工具：labelImg
 
 
